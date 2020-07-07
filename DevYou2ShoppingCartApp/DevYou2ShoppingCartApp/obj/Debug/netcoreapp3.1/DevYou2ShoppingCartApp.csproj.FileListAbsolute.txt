@@ -1,0 +1,13 @@
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\bin\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.exe
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\bin\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.deps.json
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\bin\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.runtimeconfig.json
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\bin\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.runtimeconfig.dev.json
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\bin\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.dll
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\bin\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.pdb
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\obj\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.csprojAssemblyReference.cache
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\obj\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\obj\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\obj\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.AssemblyInfo.cs
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\obj\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.dll
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\obj\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.pdb
+C:\Users\arurb\source\repos\DevYou2ShoppingCartApp\DevYou2ShoppingCartApp\obj\Debug\netcoreapp3.1\DevYou2ShoppingCartApp.genruntimeconfig.cache
