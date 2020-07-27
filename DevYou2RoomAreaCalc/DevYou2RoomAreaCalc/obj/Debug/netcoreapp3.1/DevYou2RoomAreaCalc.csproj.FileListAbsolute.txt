@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\bin\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.exe
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\bin\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.deps.json
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\bin\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.runtimeconfig.json
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\bin\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.runtimeconfig.dev.json
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\bin\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.dll
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\bin\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.pdb
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\obj\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\obj\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\obj\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\obj\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.AssemblyInfo.cs
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\obj\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.dll
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\obj\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.pdb
+C:\Users\user\source\repos\DevYou2RoomAreaCalc\DevYou2RoomAreaCalc\obj\Debug\netcoreapp3.1\DevYou2RoomAreaCalc.genruntimeconfig.cache
